@@ -1,3 +1,6 @@
+<?php
+require_once '../app/init.php'
+?>
 <!doctype html>
 <html>
     <head>
